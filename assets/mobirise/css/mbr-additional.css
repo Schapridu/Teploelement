@@ -1867,13 +1867,13 @@ body {
 .cid-rlKW1hQXl3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-rlKW1hQXl3 .title {
   margin-bottom: 2rem;
 }
 .cid-rlKW1hQXl3 .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rlKW1hQXl3 a:not([href]):not([tabindex]) {
   color: #fff;
@@ -2247,29 +2247,5 @@ body {
   .cid-rmRrTfEsN6 .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
-  }
-}
-.cid-rmRvtvGnXI {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rmRvtvGnXI .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rmRvtvGnXI .section-text {
-  padding: 2rem 0;
-  text-align: left;
-}
-.cid-rmRvtvGnXI .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rmRvtvGnXI .inner-container {
-    width: 100% !important;
   }
 }
