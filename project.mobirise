@@ -38,14 +38,16 @@
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-137870740-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-137870740-1');\r\n</script>\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Teploelement",
-        "meta_descr": "Утепление стен, крыш, потолков, востановление межпанельных швов, обшив балконов под ключ.",
+        "meta_descr": "утепление стен, реставрация швов, восстановление откосов, теплоэлемент, кривой рог",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
